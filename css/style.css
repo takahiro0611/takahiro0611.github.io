@@ -90,6 +90,7 @@ li {
 }
 
 .header-logo {
+  position: fixed;
   max-width: 25%;
   height: auto;
   font-weight: bold;
