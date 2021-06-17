@@ -95,7 +95,7 @@ li {
   font-weight: bold;
   line-height: 1.2;
   margin-right: 10px;
-  margin-left: -30px;
+  margin-left: 10px;
   letter-spacing: .05em;
 }
 .header-logo a {
@@ -106,7 +106,7 @@ li {
   max-height: 25%;
   font-weight: bold;
   line-height: 1.2;
-  margin-left: -30px;
+  margin-left: 10px;
   margin-right: 10px;
   letter-spacing: .05em;
   
