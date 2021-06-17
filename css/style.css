@@ -90,12 +90,11 @@ li {
 }
 
 .header-logo {
-  position: fixed;
   max-width: 25%;
   height: auto;
   font-weight: bold;
   line-height: 1.2;
-  margin-bottom: -80px;
+  margin-bottom: -180px;
   margin-right: 10px;
   letter-spacing: .05em;
 }
@@ -103,12 +102,11 @@ li {
   color: #333;
 }
 .header-logo2 {
-  position: fixed;
   max-width: 25%;
   height: auto;
   font-weight: bold;
   line-height: 1.2;
-  margin-bottom: -80px;
+  margin-bottom: -180px;
   margin-right: 10px;
   letter-spacing: .05em;
   
