@@ -89,24 +89,24 @@ li {
   padding: 20px 40px;
 }
 
-.header-logo {
-  justify-content: start; 
+.header-logo { 
   max-width: 25%;
   max-height: 25%;
   font-weight: bold;
   line-height: 1.2;
   margin-right: 10px;
+  margin-left: -30px;
   letter-spacing: .05em;
 }
 .header-logo a {
   color: #333;
 }
 .header-logo2 {
-  justify-content: start; 
   max-width: 25%;
   max-height: 25%;
   font-weight: bold;
   line-height: 1.2;
+  margin-left: -30px;
   margin-right: 10px;
   letter-spacing: .05em;
   
