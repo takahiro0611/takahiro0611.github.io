@@ -90,8 +90,8 @@ li {
 }
 
 .header-logo {
-  width: 250px;
-  height: 140px;
+  max-width: 25%;
+  height: auto;
   font-weight: bold;
   line-height: 1.2;
   margin-bottom: -80px;
